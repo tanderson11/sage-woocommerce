@@ -1,9 +1,9 @@
 {
-  "name": "generoi/sage-woocommerce",
+  "name": "tanderson11/sage-woocommerce",
   "type": "library",
   "license": "MIT",
   "description": "",
-  "homepage": "https://github.com/generoi/sage-woocommerce",
+  "homepage": "https://github.com/tanderson11/sage-woocommerce",
   "authors": [
     {
       "name": "Oskar Schöldström",
